@@ -29,6 +29,18 @@ margin-left: 8px;
 margin-right: 17px;
 }
 
+h3 {
+font-size: 20px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 1;
+letter-spacing: normal;
+text-align: right;
+color: #9b9b9b;
+text-transform: uppercase;
+}
+
 p
 {
 margin-left: 8px;
@@ -43,7 +55,14 @@ color: #4a4a4a;
 }
 
 li {
-   margin-bottom: .5em;
+margin-bottom: .5em;
+font-size: 14px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.43;
+letter-spacing: normal;
+color: #4a4a4a;
 }
 
 ul, ol {
@@ -51,8 +70,15 @@ ul, ol {
 }
 
 blockquote {
-   font-size: 1.5em;
-   font-weight: bold;
+   font-size: 20px;
+   font-weight: normal;
+   font-stretch: normal;
+   font-style: normal;
+   line-height: 1;
+   letter-spacing: normal;
+   text-align: right;
+   color: #9b9b9b;
+   text-transform: uppercase;
 }
 
 pre {
